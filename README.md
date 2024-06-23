@@ -27,9 +27,9 @@
 3. **Установка зависимостей**:
     - Откройте `NuGet Package Manager` для проекта.
     - Установите `Guna.UI2.WinForms` через NuGet:
-      ```bash
-      Install-Package Guna.UI2.WinForms
-      ```
+    ```bash
+    Install-Package Guna.UI2.WinForms
+    ```
 
 ## Использование
 
@@ -48,4 +48,4 @@
 
 ## Контакты
 
-Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами через [email@example.com](zaharseliverstov66@gmail.com).
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами через [zaharseliverstov66@gmail.com].
