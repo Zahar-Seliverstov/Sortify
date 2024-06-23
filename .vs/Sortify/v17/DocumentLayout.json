@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\myProjects\\C#\\File Organizer v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|C:\\myProjects\\C#\\File Organizer v2\\sortify\\sortinglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\sortinglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|C:\\myProjects\\C#\\File Organizer v2\\sortify\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|C:\\myProjects\\C#\\File Organizer v2\\sortify\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\sortinglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\sortinglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\sortify.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\sortify.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\sortinglog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\sortinglog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\startmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\startmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|c:\\myprojects\\c#\\file organizer v2\\sortify\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1474719-1C6A-4C00-B990-A6C3952F8E11}|Sortify\\Sortify.csproj|solutionrelative:sortify\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Sortify\\Properties\\Resources.resx",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\Properties\\Resources.resx",
+              "RelativeToolTip": "Sortify\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-23T10:59:00.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingLog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\SortingLog.cs",
+              "RelativeDocumentMoniker": "Sortify\\SortingLog.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer \u2014 \u043A\u043E\u043F\u0438\u044F\\Sortify\\SortingLog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\File Organizer \u2014 \u043A\u043E\u043F\u0438\u044F\\Sortify\\SortingLog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:58:17.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Sortify\\MainMenu.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer \u2014 \u043A\u043E\u043F\u0438\u044F\\Sortify\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\File Organizer \u2014 \u043A\u043E\u043F\u0438\u044F\\Sortify\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:54:52.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortingLog.cs",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\SortingLog.cs",
+              "RelativeDocumentMoniker": "Sortify\\SortingLog.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\SortingLog.cs",
+              "RelativeToolTip": "Sortify\\SortingLog.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAYwH4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:04:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\Program.cs",
+              "RelativeDocumentMoniker": "Sortify\\Program.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\Program.cs",
+              "RelativeToolTip": "Sortify\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:41:01.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartMenu.cs [Design]",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Sortify\\StartMenu.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\StartMenu.cs [Design]",
+              "RelativeToolTip": "Sortify\\StartMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:30:31.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartMenu.Designer.cs",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\StartMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Sortify\\StartMenu.Designer.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\StartMenu.Designer.cs",
+              "RelativeToolTip": "Sortify\\StartMenu.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:30:26.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortingLog.Designer.cs",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\SortingLog.Designer.cs",
+              "RelativeDocumentMoniker": "Sortify\\SortingLog.Designer.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\SortingLog.Designer.cs",
+              "RelativeToolTip": "Sortify\\SortingLog.Designer.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAADwv9YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:09:24.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sortify",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\Sortify.csproj",
+              "RelativeDocumentMoniker": "Sortify\\Sortify.csproj",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\Sortify.csproj",
+              "RelativeToolTip": "Sortify\\Sortify.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T10:14:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Sortify\\StartMenu.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\StartMenu.cs",
+              "RelativeToolTip": "Sortify\\StartMenu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:30:09.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Sortify\\MainMenu.cs",
+              "ToolTip": "C:\\myProjects\\C#\\File Organizer v2\\Sortify\\MainMenu.cs",
+              "RelativeToolTip": "Sortify\\MainMenu.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:44:48.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
