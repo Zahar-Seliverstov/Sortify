@@ -1,6 +1,7 @@
 
 <img src="https://github.com/Zahar-Seliverstov/Sortify/assets/153616076/5b577100-62f8-49dd-85c5-2a0bc0078e36" alt="Logo Start Menu" width="200"/>
-#Sortify
+
+# Sortify
 
 ## Описание
 
